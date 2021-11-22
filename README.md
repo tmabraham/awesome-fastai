@@ -28,6 +28,7 @@ Libraries built with fastai.
 ### Natural Language Processing
 - [blurr](https://github.com/ohmeow/blurr/) - a library that integrates HuggingFace Transformers with version 2 of the fastai framework
 - [fasthugs](https://github.com/morganmcg1/fasthugs) - use fastai-v2 with HuggingFace's pretrained transformers
+- [AdaptNLP]() - a high-level framework and library for running, training, and deploying state-of-the-art NLP models for end-to-end tasks
 
 ### Medical Imaging
 - [fmi](https://github.com/asvcode/fmi) - additional functionality for use with fastai’s medical imaging module
@@ -77,6 +78,7 @@ Kaggle Notebooks that use fastai. Feel free to fork them and interactively try t
 
 Some of the best articles regarding fastai and deep learning.
 
+- [fastai: A Layered API for Deep Learning](https://arxiv.org/abs/2002.04688)
 - [Pytorch to fastai, Bridging the Gap by Zach Mueller](https://muellerzr.github.io/fastblog/2021/02/14/Pytorchtofastai.html)
 - [fastai and the New DataBlock API by Zach Mueller](https://muellerzr.github.io/fastblog/datablock/2020/03/21/DataBlockAPI.html)
 - [The Idea of a Transform by Zach Mueller](https://muellerzr.github.io/fastblog/datablock/2020/03/22/TransformFunctions.html)
@@ -96,6 +98,8 @@ Online communities to discuss fastai.
 Other relevant links.
 
 - [nbdev](https://nbdev.fast.ai) - Create delightful python projects using Jupyter Notebooks. fastai v2 is built with nbdev.
+- [nbverbose](https://github.com/muellerzr/nbverbose) - An inplace extension on fastai's nbdev library to support documenting inputs
+- [nbagile](https://github.com/muellerzr/nbagile) - making nbdev compatible for agile frameworks and developments
 - [fastpages](https://fastpages.fast.ai) - An easy to use blogging platform with extra features for Jupyter Notebooks. A great blogging platform for you to share your fastai journey!
 - [fast.ai course](https://course.fast.ai/) - the fastai deep learning course.
 - [fastaidocs](https://www.cognitivefactory.fr/fastaidocs/) - a great set of cheatsheets for the fastai v2 API.
