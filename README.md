@@ -14,6 +14,7 @@ fastai is a deep learning library which provides practitioners with high-level c
 - [Articles](#articles)
 - [Community](#community)
 - [Other links](#other)
+- [Contribute](#contribute)
 
 ## Libraries
 
@@ -99,3 +100,8 @@ Other relevant links.
 - [fastpages](https://fastpages.fast.ai) - An easy to use blogging platform with extra features for Jupyter Notebooks. A great blogging platform for you to share your fastai journey!
 - [fast.ai course](https://course.fast.ai/) - the fastai deep learning course.
 - [fastaidocs](https://www.cognitivefactory.fr/fastaidocs/) - a great set of cheatsheets for the fastai v2 API.
+
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](Contributing.md) first.
