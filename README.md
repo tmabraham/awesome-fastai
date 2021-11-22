@@ -14,7 +14,6 @@ fastai is a deep learning library which provides practitioners with high-level c
 - [Articles](#articles)
 - [Community](#community)
 - [Other links](#other)
-- [Contribute](#contribute)
 
 ## Libraries
 
