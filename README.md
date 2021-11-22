@@ -104,4 +104,4 @@ Other relevant links.
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](Contributing.md) first.
+Contributions are welcome! Please submit a pull request with a single contribution only. 
