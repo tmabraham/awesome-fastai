@@ -28,8 +28,9 @@ Libraries built with fastai.
 ### Natural Language Processing
 - [blurr](https://github.com/ohmeow/blurr/) - a library that integrates HuggingFace Transformers with version 2 of the fastai framework
 - [fasthugs](https://github.com/morganmcg1/fasthugs) - use fastai-v2 with HuggingFace's pretrained transformers
-- [AdaptNLP]() - a high-level framework and library for running, training, and deploying state-of-the-art NLP models for end-to-end tasks
-
+- [AdaptNLP](https://github.com/Novetta/adaptnlp) - a high-level framework and library for running, training, and deploying state-of-the-art NLP models for end-to-end tasks
+- [fastai_ulmfit](https://github.com/floleuerer/fastai_ulmfit) - a library for pretraining, fine-tuning and training a ULM-FiT classifier
+- 
 ### Medical Imaging
 - [fmi](https://github.com/asvcode/fmi) - additional functionality for use with fastai’s medical imaging module
 - [faimed3d](https://github.com/kbressem/faimed3d) - extension to fastai for volumetric medical data
