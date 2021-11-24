@@ -53,6 +53,7 @@ Other Github repositories with useful fastai-related content.
 - [fastbook](https://github.com/fastai/fastbook) - the Jupyter notebooks for the current edition of fastai book and course.
 - [imagenette](https://github.com/fastai/imagenette) - a smaller subset of 10 easily classified classes from Imagenet, useful for quick prototyping.
 - [FastAI.jl](https://github.com/FluxML/FastAI.jl) - a version of the fastai libary for the Julia language
+- [EagerAI/fastai](https://github.com/EagerAI/fastai) - an R interface for fastai
 - [Over9000](https://github.com/mgrankin/over9000) - different SOTA optimizers and fastai training script
 - [fast_tabnet](https://github.com/mgrankin/fast_tabnet) - TabNet (SOTA neural network for tabular data) for fastai
 - [ManifoldMixupV2](https://github.com/nestordemeure/ManifoldMixupV2) - Manifold-Mixup implementation for fastai v2
