@@ -69,6 +69,7 @@ Kaggle Notebooks that use fastai. Feel free to fork them and interactively try t
 - [Combined fastai tabular+vision notebook](https://www.kaggle.com/muellerzr/fastai2-tabular-vision-starter-kernel)
 - [HuBMAP PyTorch/fast.ai starter](https://www.kaggle.com/iafoss/hubmap-pytorch-fast-ai-starter)
 - [fastai v2 Pipeline tutorial](https://www.kaggle.com/jhoward/fastai-v2-pipeline-tutorial)
+- [Petfinder Pawpularity EDA & fastai starter](https://www.kaggle.com/tanlikesmath/petfinder-pawpularity-eda-fastai-starter)
 - fastai medical imaging tutorials by Jeremy Howard:
   - [Creating a metadata DataFrame](https://www.kaggle.com/jhoward/creating-a-metadata-dataframe-fastai)
   - [Some DICOM gotchas to be aware of](https://www.kaggle.com/jhoward/some-dicom-gotchas-to-be-aware-of-fastai)
